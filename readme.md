@@ -1,6 +1,6 @@
 Login Credentials *
 * Email => pxyoe@gmail.com
-* password => pxyoe@12345
+* password => pxyoe12345
 
 **Built with react query and supabase**
 
